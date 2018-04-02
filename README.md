@@ -1,5 +1,7 @@
 # trick-data
 
+[![Build Status](https://travis-ci.org/pbrandt1/trick-data.svg?branch=master)](https://travis-ci.org/pbrandt1/trick-data)
+
 A module for working with data output from NASA's [Trick](https://github.com/nasa/trick) simulation suite.
 
 ISC-licensed and with zero runtime dependencies. There are development dependencies which are for running regression tests.
