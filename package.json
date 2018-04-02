@@ -1,0 +1,16 @@
+{
+  "name": "trick-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trk.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.5",
+    "should": "^13.2.1"
+  }
+}
